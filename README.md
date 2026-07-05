@@ -1,6 +1,5 @@
 ### Hi there 👋, i'm Hasan
-#### 🔬Biochemistry & Biotechnology student| Bioinformatics |Computational Biology| Passionate about Human Diseases, Molecular Medicine, and Therapeutic Research | North South University
-#### [🔬Biochemistry & Biotechnology student| Bioinformatics |Computational Biology| Passionate about Human Diseases, Molecular Medicine, and Therapeutic Research | North South University]
+#### 🔬Biochemistry & Biotechnology student| Bioinformatics| Computational Biology| Passionate about Human Diseases, Molecular Medicine, and Therapeutic Research| North South University
 I am an undergraduate student at North South University, pursuing my Bachelor's degree in Biochemistry and Biotechnology with a deep interest in understanding human diseases and developing effective treatments. My focus lies in exploring molecular medicine, immunology, drug discovery, and vaccine design. I am driven by curiosity to uncover the molecular mechanisms behind diseases and contribute to innovative therapeutic approaches through research and continuous learning.
 
 Skills: Bioinformatics/ Computational Biology/ Whole Genome Sequence (WGS) Analysis (Bacterial Genome) / In Silico Vaccine Design/Molecular Docking/Genome Annotation/Blast/ADMET Prediction/ Toxicity Prediction/ Protein Structure Visualization/PyRx/ PyMoL/ Discovery Studio/ Basic Linux 
