@@ -9,10 +9,3 @@ I am an undergraduate student at North South University, pursuing my Bachelor's 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hasanomics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-hasan-853765345//)  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/hasanomics" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/hasanomicsE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
