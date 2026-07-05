@@ -10,9 +10,5 @@ Skills: Bioinformatics/ Computational Biology/ Whole Genome Sequence (WGS) Analy
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/hasanomics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-hasan-853765345//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/hasanomics)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/hasanomics)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/hasanomics&show_icons=true)  
 
